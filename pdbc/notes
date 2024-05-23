@@ -1,0 +1,12 @@
+url : https://dummyjson.com/products
+method : fetch
+
+access type : public
+
+1. how to test rest api -> browser/ postman
+2. how to invoke rest api in python  ->> requests library
+3. how to invoke rest api in javascript
+4. find the data type
+5. how to connect to mongodb
+
+install pymongo
