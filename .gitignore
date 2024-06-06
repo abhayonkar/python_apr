@@ -6,3 +6,5 @@
 /streamlit/lib64
 /streamlit/share
 
+# created by virtualenv automatically
+*
